@@ -5,5 +5,5 @@
 - [ITEM 16 使用存取器方法（setter or getter）代替public属性](https://github.com/XYliang/effective-java3_Chinese-version/issues/6)
 - [ITEM 17 使可变性最小化](https://github.com/XYliang/effective-java3_Chinese-version/issues/5)
 - [ITEM 18 重组合，轻继承](https://github.com/XYliang/effective-java3_Chinese-version/issues/4)
-- [Item 19 为继承设计文档，否则就禁止继承](https://github.com/XYliang/effective-java3_Chinese-version/issues/3)
+- [ITEM 19 为继承设计文档，否则就禁止继承](https://github.com/XYliang/effective-java3_Chinese-version/issues/3)
 
