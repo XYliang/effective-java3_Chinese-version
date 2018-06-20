@@ -1,5 +1,5 @@
 # effective-java-3rd Chinese-version
-###第四章 类与接口
+**第四章 类与接口**
 
 - [ITEM 15 最小化类和类成员的可访问性](https://github.com/XYliang/effective-java3_Chinese-version/issues/7)
 - [ITEM 16 使用存取器方法（setter or getter）代替public属性](https://github.com/XYliang/effective-java3_Chinese-version/issues/6)
