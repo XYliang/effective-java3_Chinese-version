@@ -1,4 +1,4 @@
-# effective-java-3rd Chinese-version
+# effective-java-3rd 中文版
 **第四章 类与接口**
 
 - [ITEM 15 最小化类和类成员的可访问性](https://github.com/XYliang/effective-java3_Chinese-version/issues/7)
