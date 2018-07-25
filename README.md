@@ -9,3 +9,4 @@
 - [ITEM 20 接口优先于继承](https://github.com/XYliang/effective-java3_Chinese-version/issues/8)
 - [ITEM 21 设计接口要向后兼容](https://github.com/XYliang/effective-java3_Chinese-version/issues/9)
 - [ITEM 22 仅仅使用接口来定义类型](https://github.com/XYliang/effective-java3_Chinese-version/issues/10)
+- [ITEM 23 优先使用类层级结构，减少使用tag标记类](https://github.com/XYliang/effective-java3_Chinese-version/issues/11)
