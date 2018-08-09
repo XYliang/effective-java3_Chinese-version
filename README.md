@@ -12,3 +12,7 @@
 - [ITEM 23 优先使用类层级结构，减少使用tag标记类](https://github.com/XYliang/effective-java3_Chinese-version/issues/11)
 - [ITEM 24 内部类优先设置成静态的](https://github.com/XYliang/effective-java3_Chinese-version/issues/12)
 - [ITEM25 保持一个源文件只包含一个顶层类](https://github.com/XYliang/effective-java3_Chinese-version/issues/13)
+
+**第五章 范型**
+
+- [ITEM26 不要使用原始类型](https://github.com/XYliang/effective-java3_Chinese-version/issues/14)
