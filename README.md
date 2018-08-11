@@ -16,3 +16,4 @@
 **第五章 范型**
 
 - [ITEM26 不要使用原始类型](https://github.com/XYliang/effective-java3_Chinese-version/issues/14)
+- [ITEM 27 消除 unchecked（未检查） 警告](https://github.com/XYliang/effective-java3_Chinese-version/issues/15)
